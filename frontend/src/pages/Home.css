@@ -1,0 +1,16 @@
+.home-wrapper {
+    height: 100%;
+    width: 100%;
+}
+
+.home-menu-container {
+    background-color: mediumvioletred;
+}
+
+.home-cards-container {
+    background-color: cornflowerblue;
+}
+
+.home-calendar-container {
+    background-color: darkblue;
+}
